@@ -15,7 +15,7 @@ ___
 
 🌎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on a responsive web app using Node,  Express, Postgres, React, and Marterial UI that serves as a dream journal, dictionary, and has analytics
 
-### COOL PROJECTS
+### COOL PROJECTS 💪
 ___
 💼 **Portfolio Portal** <a href='https://www.youtube.com/watch?v=nQO1z6mE9iA'>DEMO</a> | <a href='https://github.com/kosmos02/portfolio-portal-frontend'>frontend repo</a>
 <ul>
@@ -35,7 +35,7 @@ ___
 <li>Description: A map of the world a user can place pins on. Each pin corresponds to a post where the user or other users can comment.
 </ul>
 
-### LANGUAGES/FRAMEWORKS
+### LANGUAGES/FRAMEWORKS 💻
 ___
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
