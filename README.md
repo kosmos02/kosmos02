@@ -1,4 +1,4 @@
-![](name_banner.gif)
+![](./assets/name_banner.gif)
 ### 🕺  Hi! I'm Alexander! 💃
 
 ___
@@ -14,6 +14,26 @@ ___
 ♈️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have a fun, engaging, inclusive, and lighthearted demeanor with a hint of healthy competitive spice that adds flare and energy to any team
 
 🌎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on a responsive web app using Node,  Express, Postgres, React, and Marterial UI that serves as a dream journal, dictionary, and has analytics
+
+### COOL PROJECTS
+___
+💼 **Portfolio Portal** <a href='https://www.youtube.com/watch?v=nQO1z6mE9iA'>DEMO</a> | <a href='https://github.com/kosmos02/portfolio-portal-frontend'>frontend repo</a>
+<ul>
+<li>Tech: React Native, Xcode, Ruby on Rails, ViroReact</li>
+<li>Description: An Augmented Reality Portfolio app where you can build your own AR portfolio, travel to other worlds through AR portals, and play videos of your portfolio projects
+</ul>
+
+💡 **Trivability** <a href='https://www.youtube.com/watch?v=m88xPqRIStg&t=35s'>DEMO</a> | <a href='https://github.com/kosmos02/trivability-frontend'>frontend repo</a>
+<ul>
+<li>Tech: React, Ruby on Rails</li>
+<li>Description: Two player 'trivia pursuit' game with game board. Answering questions correctly allows the player to advance on the game board.
+</ul>
+
+📍 **WanderLust** <a href='https://www.youtube.com/watch?v=9Lydq4EVUI4&t=4s'>DEMO</a> | <a href='https://github.com/kosmos02/wanderlust-frontend'>frontend repo</a>
+<ul>
+<li>Tech: Vanilla Javascript, HTML5, CSS3, Leaflet.js, Google Maps Reverse Geocoding API</li>
+<li>Description: A map of the world a user can place pins on. Each pin corresponds to a post where the user or other users can comment.
+</ul>
 
 ### LANGUAGES/FRAMEWORKS
 ___
@@ -34,7 +54,11 @@ ___
 
 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 
-
+### GET IN TOUCH 📨 &nbsp;&nbsp;&nbsp;click below
+___
+<a href='https://alexandermgabriel.medium.com/'><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href='https://www.linkedin.com/in/alexander-m-gabriel'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='https://www.youtube.com/channel/UC8mQfCibsE7nMCQkqO1GMXA/videos'><img alt="Youtube" src="https://img.shields.io/badge/Alexander Gabriel%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 
 
