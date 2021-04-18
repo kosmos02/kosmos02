@@ -17,7 +17,7 @@ ___
 
 🌎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on a responsive web app using Node,  Express, Postgres, React, and Marterial UI that serves as a dream journal, dictionary, and has analytics
 
-🧜‍♂️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I'm a survivor and 100% healed from severe chemical burns caused by a LIME (yes, the fruit) when I went to Carnival in Rio de Janiero. Also, watch out for lime as well as carrot, and celery juice mixed with sunlight.
+🧜‍♂️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I'm a survivor and 100% healed from severe chemical burns caused by a LIME (yes, the fruit) when I went to Carnival in Rio de Janiero. Watch out for lime, as well as carrot, and celery juice mixed with sunlight.
 
 ### COOL PROJECTS 💪
 ___
