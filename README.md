@@ -17,8 +17,6 @@ ___
 
 🌎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on a responsive web app using Node,  Express, Postgres, React, and Marterial UI that serves as a dream journal, dictionary, and has analytics.
 
-🧜‍♂️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I'm a survivor and 100% healed from severe chemical burns caused by a LIME (yes, the fruit) when I went to Carnival in Rio de Janiero. Watch out for lime, as well as carrot, and celery juice mixed with sunlight.
-
 ### COOL PROJECTS 💪
 ___
 💼 **Portfolio Portal** <a href='https://www.youtube.com/watch?v=nQO1z6mE9iA'>DEMO</a> | <a href='https://github.com/kosmos02/portfolio-portal-frontend'>frontend repo</a>
@@ -73,3 +71,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 🧜‍♂️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I'm a survivor and 100% healed from severe chemical burns caused by a LIME (yes, the fruit) when I went to Carnival in Rio de Janiero. Watch out for lime, as well as carrot, and celery juice mixed with sunlight. -->
