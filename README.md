@@ -3,19 +3,19 @@
 
 ___
 
-🌈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pronouns are he/ him/ his
+🌈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pronouns are he/ him/ his.
 
-🏂&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I take pride in effective communication
+🏂&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I take pride in effective communication.
 
 ✈️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask me about where to go on your next vacation!
 
-🎮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I practice algorithm and data structure problems daily
+🎮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I practice algorithm and data structure problems daily.
 
-🏋️‍♀️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open to learning or collabortating on anything VR/AR or pertaining to GIS
+🏋️‍♀️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open to learning or collabortating on anything VR/AR or pertaining to GIS.
 
-♈️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have a fun, engaging, inclusive, and lighthearted demeanor with a hint of healthy, competitive spice that adds flare and energy to any team
+♈️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have a fun, engaging, inclusive, and lighthearted demeanor with a hint of healthy, competitive spice that adds flare and energy to any team.
 
-🌎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on a responsive web app using Node,  Express, Postgres, React, and Marterial UI that serves as a dream journal, dictionary, and has analytics
+🌎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on a responsive web app using Node,  Express, Postgres, React, and Marterial UI that serves as a dream journal, dictionary, and has analytics.
 
 🧜‍♂️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I'm a survivor and 100% healed from severe chemical burns caused by a LIME (yes, the fruit) when I went to Carnival in Rio de Janiero. Watch out for lime, as well as carrot, and celery juice mixed with sunlight.
 
@@ -24,7 +24,7 @@ ___
 💼 **Portfolio Portal** <a href='https://www.youtube.com/watch?v=nQO1z6mE9iA'>DEMO</a> | <a href='https://github.com/kosmos02/portfolio-portal-frontend'>frontend repo</a>
 <ul>
 <li>Tech: React Native, Xcode, Ruby on Rails, ViroReact</li>
-<li>Description: An Augmented Reality Portfolio app where you can build your own AR portfolio, travel to other worlds through AR portals, and play videos of your portfolio projects
+<li>Description: An Augmented Reality Portfolio app where you can build your own AR portfolio, travel to other worlds through AR portals, and play videos of your portfolio projects.
 </ul>
 
 💡 **Trivability** <a href='https://www.youtube.com/watch?v=m88xPqRIStg&t=35s'>DEMO</a> | <a href='https://github.com/kosmos02/trivability-frontend'>frontend repo</a>
